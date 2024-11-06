@@ -42,7 +42,7 @@ This portfolio highlights my journey as a beginner in web and mobile development
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YashVerma/portfolio-website.git
+   git clone https://github.com/heyyashverma/yashverma.git
    ```
 2. Open `index.html` in a browser to view the website locally.
 
